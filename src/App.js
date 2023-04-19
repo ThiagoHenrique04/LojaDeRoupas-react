@@ -13,6 +13,7 @@ import header from './static/header.jpg';
 import jaquetaTiro21 from './static/jaqueta tiro 21.jpeg';
 import { Body, CardWrapper9, CardWrapper8, CardWrapper7, CardWrapper6, CardWrapper5, CardWrapper4, TextPromocoes, TextNovidades, TextPopulares, CardWrapper3, CardWrapper2, CardWrapper1, GifImage, Entrar, Gif, Logo, Menu, Title } from './styles';
 
+
 function App() {
   return (
     <div className="App">
